@@ -2,6 +2,12 @@
 
 该项目使用`Python`语言开发，实现了简单的搜索引擎功能，主要包含布尔检索和简单的语义检索
 
+数据集：
+
+```
+US Financial News Articles 收集了彭博社（Bloomberg News）、美国消费者新闻与商业频道（CNBC）, 路透社（Reuters）, 华尔街日报（WSJ）, 财富报（Fortune）提供的从2018年1月到5月的财经新闻。
+```
+
 ## 运行环境
 
 开发即测试环境均为`Windows 10`，开发工具选择`PyCharm`，使用了`Anaconda`做包管理，其`Python`版本为`3.8.1`。
